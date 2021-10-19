@@ -24,7 +24,7 @@ const Banner = () => {
           </div>
           <div className="col-md-6 col-lg-4">
             <img
-              className="img-fluid"
+              className="img-fluid pt-4"
               src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/main-1.png"
               alt=""
             />

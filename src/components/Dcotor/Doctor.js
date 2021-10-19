@@ -12,7 +12,7 @@ const Doctor = ({ doctor }) => {
   return (
     <div>
       <Col>
-        <Card className="border-0 text-center card">
+        <Card className="border-0 text-center card shadow-sm rounded-3">
           <Card.Img variant="top" className="img-fluid" src={img} />
           <Card.Body>
             <Card.Title>{name}</Card.Title>

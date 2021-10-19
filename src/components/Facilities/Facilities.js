@@ -8,7 +8,7 @@ const Facilities = () => {
       </h3>
       <div className="row">
         <div className="col-12 col-md-6 col-lg-4">
-          <div className="border border-1 shadow-sm p-4 text-center">
+          <div className="border border-1 shadow-sm p-4 text-center rounded">
             <img
               className="img-fluid"
               src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-building-38.png"
@@ -18,7 +18,7 @@ const Facilities = () => {
           </div>
         </div>
         <div className="col-12 col-md-6 col-lg-4">
-          <div className="border border-1 shadow-sm p-4 text-center">
+          <div className="border border-1 shadow-sm p-4 text-center rounded">
             <img
               className="img-fluid"
               src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-medical-4.png"
@@ -28,7 +28,7 @@ const Facilities = () => {
           </div>
         </div>
         <div className="col-12 col-md-6 col-lg-4">
-          <div className="border border-1 shadow-sm p-4 text-center">
+          <div className="border border-1 shadow-sm p-4 text-center rounded">
             <img
               className="img-fluid"
               src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-medical-9.png"

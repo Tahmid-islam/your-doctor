@@ -22,7 +22,7 @@ const DoctorDetails = () => {
   };
 
   return (
-    <div>
+    <div className="border m-3 shadow-lg border border-primary">
       {doctorDetails.map((doctor) => (
         <div
           style={{ textAlign: "justify" }}
@@ -31,7 +31,7 @@ const DoctorDetails = () => {
           <h3 className="text-center fw-bolder text-primary pt-2 pb-4">
             Appointment Details Of Doctor {doctor.name}
           </h3>
-          <div className="col-12 col-lg-6">
+          <div className="col-12 col-lg-6 d-flex flex-row justify-content-center align-items-center">
             <div>
               <h2>
                 <span className="fw-bolder">Name: </span>
