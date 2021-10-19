@@ -32,7 +32,9 @@ const Login = () => {
   return (
     <div className="mx-auto w-50">
       <div className="text-center py-4">
-        <h1>Login</h1>
+        <h1>
+          Login <i class="fas fa-sign-in-alt"></i>
+        </h1>
       </div>
       <form onSubmit={handleSubmit(onSubmit)}>
         <input
@@ -51,18 +53,18 @@ const Login = () => {
         <p className="text-danger text-center fw-bold">{error}</p>
         {errors.password && <span>This field is required</span>}
         <input
-          className="form-control my-3 btn btn-danger p-2"
+          className="form-control my-3 btn btn-primary p-2"
           type="submit"
           value="Login"
         />
       </form>
       <Link style={{ textDecoration: "none" }} to="/register">
-        <p className="text-danger text-center fw-bold">New to Your Doctor?</p>
+        <p className="text-primary text-center fw-bold">New to Your Doctor?</p>
       </Link>
       <div className="text-center">
         <button
           onClick={handleGoogleSignIn}
-          className="btn btn-danger text-center"
+          className="btn btn-primary text-center"
         >
           <i className="fab fa-google"></i> Google Sign In
         </button>

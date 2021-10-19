@@ -22,6 +22,7 @@ const Doctor = ({ doctor }) => {
                 onClick={() => handleAppointment(id)}
                 className="btn btn-primary rounded-pill"
               >
+                <i className="fas fa-calendar-check pe-1"></i>
                 Appointment Now
               </button>
             </Card.Text>

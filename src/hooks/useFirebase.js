@@ -7,7 +7,6 @@ import {
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
   updateProfile,
-  sendPasswordResetEmail,
 } from "firebase/auth";
 import { useEffect, useState } from "react";
 import initializeAuthentication from "../Firebase/firebase.init";
@@ -67,12 +66,6 @@ const useFirebase = () => {
       });
   };
 
-  const handleResetPassword = (email) => {
-    sendPasswordResetEmail(auth, email).then((result) => {
-      setError("");
-    });
-  };
-
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       if (user) {
@@ -89,7 +82,6 @@ const useFirebase = () => {
     signInUsingEmailAndPassword,
     createNewAccount,
     error,
-    handleResetPassword,
   };
 };
 

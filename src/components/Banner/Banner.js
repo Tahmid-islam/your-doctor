@@ -1,48 +1,36 @@
 import React from "react";
-import { Carousel } from "react-bootstrap";
 
 const Banner = () => {
   return (
-    <div className="container w-75">
-      <Carousel>
-        <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src="https://media.istockphoto.com/photos/healthcare-workers-portrait-picture-id1284636209?b=1&k=20&m=1284636209&s=170667a&w=0&h=j_vm0DELoS5ZhzbqYAI60nHoO57jHlrGIyLgqBs6Wyg="
-            alt="First slide"
-          />
-          <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src="https://media.istockphoto.com/photos/mature-doctor-and-nurse-discussing-patient-case-picture-id1307543555?b=1&k=20&m=1307543555&s=170667a&w=0&h=KKk1RkwzUkT_a6Kqf0jh7aBEVpIMG048FALjEAPyDp0="
-            alt="Second slide"
-          />
-
-          <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src="https://media.istockphoto.com/photos/ensuring-her-vitals-are-nominal-before-the-procedure-picture-id175264754?b=1&k=20&m=175264754&s=170667a&w=0&h=aCiBfeBoIuCDLQ0DR0nIto6IAV8ZSg2eMYy3tvN6VHs="
-            alt="Third slide"
-          />
-
-          <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
-          </Carousel.Caption>
-        </Carousel.Item>
-      </Carousel>
+    <div
+      style={{ backgroundColor: "#00b894", textAlign: "justify" }}
+      className="text-white"
+    >
+      <div className="container">
+        <div className="row container">
+          <div className="col-md-6 col-lg-8 d-flex align-items-center justify-content-center">
+            <div>
+              <p className="fw-bolder">Your Doctor</p>
+              <h3>We are a reliable partner</h3>
+              <p>
+                Your Doctor is an organization that promotes the art and science
+                of medicine and the betterment of public health. Although the
+                AMA supports the principles of competent, compassionate, ethical
+                care and excellent patient-physician communication, we are not
+                an organization that is authorized to review specific complaints
+                about care.
+              </p>
+            </div>
+          </div>
+          <div className="col-md-6 col-lg-4">
+            <img
+              className="img-fluid"
+              src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/main-1.png"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
