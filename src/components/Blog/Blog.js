@@ -10,7 +10,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-and-patient-at-hospital-775TK6U-1024x682.jpg"
+              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-and-patient-at-hospital-775TK6U-1024x682.jpg"
             />
             <Card.Body>
               <Card.Title>Replied</Card.Title>
@@ -29,7 +29,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/family-at-hospital-M43S4FD-1-1024x684.jpg"
+              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/family-at-hospital-M43S4FD-1-1024x684.jpg"
             />
             <Card.Body>
               <Card.Title>Baby Care</Card.Title>
@@ -49,7 +49,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/mature-male-patient-in-consultation-with-doctor-in-5NLWPDQ-1024x683.jpg"
+              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/mature-male-patient-in-consultation-with-doctor-in-5NLWPDQ-1024x683.jpg"
             />
             <Card.Body>
               <Card.Title>Don't forget use</Card.Title>
@@ -67,7 +67,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD-1024x681.jpg"
+              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD-1024x681.jpg"
             />
             <Card.Body>
               <Card.Title>Safety</Card.Title>
@@ -87,7 +87,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="http://webdemo2.risegraph.net/wp-content/uploads/2021/03/16-1-1024x683.jpg"
+              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/16-1-1024x683.jpg"
             />
             <Card.Body>
               <Card.Title>Children</Card.Title>

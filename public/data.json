@@ -4,55 +4,55 @@
     "name": "Dr. Khasviware",
     "description": "Master of Surgery (MS, MSurg, MChir)",
     "visiting_time": "8 PM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-medicine-and-hospital-treatment-concept-CV8GSGA.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-medicine-and-hospital-treatment-concept-CV8GSGA.jpg"
   },
   {
     "id": "2",
     "name": "Dr. Elemantariano",
     "description": "Doctor of Clinical Surgery",
     "visiting_time": "5 PM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/hospital-healthcare-workers-covid-19-treatment-con-M2ASHZ6.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/hospital-healthcare-workers-covid-19-treatment-con-M2ASHZ6.jpg"
   },
   {
     "id": "3",
     "name": "Dr. Erchatialo",
     "description": "Master of Public Health and Ophthalmology",
     "visiting_time": "9 AM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/covid19-coronavirus-healthcare-and-doctors-concept-T8SKTR4.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/covid19-coronavirus-healthcare-and-doctors-concept-T8SKTR4.jpg"
   },
   {
     "id": "4",
     "name": "Dr. Redwanul",
     "description": "Doctor of Clinical Medicine (DCM)",
     "visiting_time": "10 AM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-coronavirus-covid-19-pandemic-a-T6F7TPE-1.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-coronavirus-covid-19-pandemic-a-T6F7TPE-1.jpg"
   },
   {
     "id": "5",
     "name": "Dr. Rahman Krim",
     "description": "Bachelor of Surgery (B.S)/(B.Surg)",
     "visiting_time": "4 PM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD.jpg"
   },
   {
     "id": "6",
     "name": "Dr. Shyma Jahan",
     "description": "Gynecology (B.S)/(B.Surg)",
     "visiting_time": "11.30 AM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-working-at-hospital-9AGKBN4.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-working-at-hospital-9AGKBN4.jpg"
   },
   {
     "id": "7",
     "name": "Dr. Robin",
     "description": "Heart Specialist",
     "visiting_time": "1.30 PM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-covid-19-coronavirus-and-preven-ZLTGEQM.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-covid-19-coronavirus-and-preven-ZLTGEQM.jpg"
   },
   {
     "id": "8",
     "name": "Dr. Garima Khan",
     "description": "Diabetics Specialist",
     "visiting_time": "3.30 PM",
-    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-prevent-virus-insurance-and-med-BH4ZMHN.jpg"
+    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-prevent-virus-insurance-and-med-BH4ZMHN.jpg"
   }
 ]
