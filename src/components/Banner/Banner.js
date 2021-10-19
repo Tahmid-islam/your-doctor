@@ -1,4 +1,5 @@
 import React from "react";
+import doctorImg from "../../images/doctor-removebg-preview.png";
 
 const Banner = () => {
   return (
@@ -23,11 +24,7 @@ const Banner = () => {
             </div>
           </div>
           <div className="col-md-6 col-lg-4">
-            <img
-              className="img-fluid pt-4"
-              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/main-1.png"
-              alt=""
-            />
+            <img className="img-fluid pt-4" src={doctorImg} alt="" />
           </div>
         </div>
       </div>

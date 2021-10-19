@@ -10,7 +10,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-and-patient-at-hospital-775TK6U-1024x682.jpg"
+              src="https://media.istockphoto.com/photos/he-replied-picture-id471632661?b=1&k=20&m=471632661&s=170667a&w=0&h=Q_n95aFACzX6cSX-MQSyH-SA0gQyY4baRUh526pT4EY="
             />
             <Card.Body>
               <Card.Title>Replied</Card.Title>
@@ -29,7 +29,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/family-at-hospital-M43S4FD-1-1024x684.jpg"
+              src="https://media.istockphoto.com/photos/mother-kissing-smiling-baby-girl-picture-id1295340883?b=1&k=20&m=1295340883&s=170667a&w=0&h=O_B22jRZFbev4_SgyCrI5lidkgd4OPl3Axws0oXpi0E="
             />
             <Card.Body>
               <Card.Title>Baby Care</Card.Title>
@@ -49,7 +49,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/mature-male-patient-in-consultation-with-doctor-in-5NLWPDQ-1024x683.jpg"
+              src="https://images.unsplash.com/photo-1544126592-807ade215a0b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmFieXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
             />
             <Card.Body>
               <Card.Title>Don't forget use</Card.Title>
@@ -67,7 +67,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD-1024x681.jpg"
+              src="https://media.istockphoto.com/photos/shot-of-an-attractive-young-nurse-sitting-and-bonding-with-her-senior-picture-id1316738511?b=1&k=20&m=1316738511&s=170667a&w=0&h=7gJGRENOkkJ89w8LnOjAx1bHyzaV2kJx-ZVFnpW2EW8="
             />
             <Card.Body>
               <Card.Title>Safety</Card.Title>
@@ -87,7 +87,7 @@ const Blog = () => {
           <Card className="h-100">
             <Card.Img
               variant="top"
-              src="https://webdemo2.risegraph.net/wp-content/uploads/2021/03/16-1-1024x683.jpg"
+              src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpbGRyZW58ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
             />
             <Card.Body>
               <Card.Title>Children</Card.Title>

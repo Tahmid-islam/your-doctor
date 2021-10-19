@@ -4,55 +4,55 @@
     "name": "Dr. Khasviware",
     "description": "Master of Surgery (MS, MSurg, MChir)",
     "visiting_time": "8 PM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-medicine-and-hospital-treatment-concept-CV8GSGA.jpg"
+    "img": "https://images.unsplash.com/photo-1614579093335-b6ab37ddaace?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "2",
     "name": "Dr. Elemantariano",
     "description": "Doctor of Clinical Surgery",
     "visiting_time": "5 PM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/hospital-healthcare-workers-covid-19-treatment-con-M2ASHZ6.jpg"
+    "img": "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "3",
     "name": "Dr. Erchatialo",
     "description": "Master of Public Health and Ophthalmology",
     "visiting_time": "9 AM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/covid19-coronavirus-healthcare-and-doctors-concept-T8SKTR4.jpg"
+    "img": "https://images.unsplash.com/photo-1612943733919-f9661f1331f5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "4",
     "name": "Dr. Redwanul",
     "description": "Doctor of Clinical Medicine (DCM)",
     "visiting_time": "10 AM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-coronavirus-covid-19-pandemic-a-T6F7TPE-1.jpg"
+    "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "5",
     "name": "Dr. Rahman Krim",
     "description": "Bachelor of Surgery (B.S)/(B.Surg)",
     "visiting_time": "4 PM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD.jpg"
+    "img": "https://images.unsplash.com/photo-1618498082410-b4aa22193b38?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "6",
     "name": "Dr. Shyma Jahan",
     "description": "Gynecology (B.S)/(B.Surg)",
     "visiting_time": "11.30 AM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-working-at-hospital-9AGKBN4.jpg"
+    "img": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZG9jdG9yc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "7",
     "name": "Dr. Robin",
     "description": "Heart Specialist",
     "visiting_time": "1.30 PM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-covid-19-coronavirus-and-preven-ZLTGEQM.jpg"
+    "img": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "8",
     "name": "Dr. Garima Khan",
     "description": "Diabetics Specialist",
     "visiting_time": "3.30 PM",
-    "img": "https://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-prevent-virus-insurance-and-med-BH4ZMHN.jpg"
+    "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   }
 ]

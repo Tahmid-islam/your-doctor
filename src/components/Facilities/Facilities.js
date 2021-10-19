@@ -11,7 +11,7 @@ const Facilities = () => {
           <div className="border border-1 shadow-sm p-4 text-center rounded">
             <img
               className="img-fluid"
-              src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-building-38.png"
+              src="http://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-building-38.png"
               alt=""
             />
             <h5 className="text-center pt-2 fw-bold">Specialize Services</h5>
@@ -21,7 +21,7 @@ const Facilities = () => {
           <div className="border border-1 shadow-sm p-4 text-center rounded">
             <img
               className="img-fluid"
-              src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-medical-4.png"
+              src="http://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-medical-4.png"
               alt=""
             />
             <h5 className="text-center pt-2 fw-bold">Immunization</h5>
@@ -31,7 +31,7 @@ const Facilities = () => {
           <div className="border border-1 shadow-sm p-4 text-center rounded">
             <img
               className="img-fluid"
-              src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-medical-9.png"
+              src="http://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-medical-9.png"
               alt=""
             />
             <h5 className="text-center pt-2 fw-bold">

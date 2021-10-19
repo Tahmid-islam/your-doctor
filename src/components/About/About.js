@@ -7,7 +7,7 @@ const About = () => {
         <div className="col-12 col-lg-6">
           <img
             className="img-fluid rounded"
-            src="https://webdemo2.risegraph.net/wp-content/uploads/elementor/thumbs/friendly-female-doctor-and-small-girl-in-bed-in-ho-5A5LE87-1-p4u5qmntfwtdos5c7lbn6udf9ujs1q3z1nm7dh24a2.jpg"
+            src="https://images.unsplash.com/photo-1612708771321-1cfe5ce5e106?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
             alt=""
           />
         </div>
