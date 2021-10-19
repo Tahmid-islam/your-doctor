@@ -4,6 +4,7 @@ import { Form } from "react-bootstrap";
 const Contact = () => {
   return (
     <div className="container w-75 py-5">
+      <h3 className="text-center text-primary">Contact Us</h3>
       <Form>
         <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
           <Form.Label className="fw-bolder text-primary">
