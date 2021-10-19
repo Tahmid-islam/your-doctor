@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Khasviware",
+    "description": "Master of Surgery (MS, MSurg, MChir, MCh, ChM, CM)",
+    "Visiting Hour": "8 PM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-medicine-and-hospital-treatment-concept-CV8GSGA.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Elemantariano",
+    "description": "Doctor of Clinical Surgery (DClinSurg)",
+    "Visiting Hour": "5 PM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/hospital-healthcare-workers-covid-19-treatment-con-M2ASHZ6.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Erchatialo",
+    "description": "Master of Public Health and Ophthalmology (MPHO)",
+    "Visiting Hour": "9 AM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/covid19-coronavirus-healthcare-and-doctors-concept-T8SKTR4.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Redwanul",
+    "description": "Doctor of Clinical Medicine (DCM)",
+    "Visiting Hour": "10 AM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-coronavirus-covid-19-pandemic-a-T6F7TPE-1.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Rahman Krim",
+    "description": "Bachelor of Surgery (B.S)/(B.Surg)",
+    "Visiting Hour": "4 PM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/portrait-of-mature-male-doctor-wearing-white-coat-H49URGD.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Shyma Jahan",
+    "description": "Gynecology (B.S)/(B.Surg)",
+    "Visiting Hour": "11.30 AM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/doctor-working-at-hospital-9AGKBN4.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Dr. Robin",
+    "description": "Heart Specialist",
+    "Visiting Hour": "1.30 PM",
+    "img": "http://webdemo2.risegraph.net/wp-content/uploads/2021/03/healthcare-workers-covid-19-coronavirus-and-preven-ZLTGEQM.jpg"
+  }
+]
