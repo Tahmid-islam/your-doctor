@@ -3,7 +3,7 @@
 ## Website Link: https://your-doctor.netlify.app/
 
 # Features:
-#### YourSkill is an online based doctor platform for you where you can choose your health problem related doctor.
+#### Your Doctor is an online based doctor platform for you where you can choose your health problem related doctor.
 #### People can get their desirable doctor and take appointment from here.
 #### Different types of doctors are available here. 
 
