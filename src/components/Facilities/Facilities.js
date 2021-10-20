@@ -1,11 +1,15 @@
 import React from "react";
+import { Rotate } from "react-reveal";
 
 const Facilities = () => {
   return (
     <div className="container">
-      <h3 className="py-4 text-primary text-center fw-bolder">
-        OUR SERVICES & FACILITIES
-      </h3>
+      <Rotate top right>
+        <h3 className="py-4 text-primary text-center fw-bolder">
+          OUR SERVICES & FACILITIES
+        </h3>
+      </Rotate>
+
       <div className="row">
         <div className="col-12 col-md-6 col-lg-4">
           <div className="border border-1 shadow-sm p-4 text-center rounded">
