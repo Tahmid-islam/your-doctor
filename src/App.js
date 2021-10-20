@@ -41,9 +41,9 @@ function App() {
             <PrivateRoute path="/blog">
               <Blog></Blog>
             </PrivateRoute>
-            <PrivateRoute path="/contact">
+            <Route path="/contact">
               <Contact></Contact>
-            </PrivateRoute>
+            </Route>
             <Route exact path="*">
               <NotFound></NotFound>
             </Route>
