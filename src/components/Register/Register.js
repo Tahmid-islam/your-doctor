@@ -78,7 +78,7 @@ const Register = () => {
             onClick={handleGoogleSignIn}
             className="btn btn-primary text-center"
           >
-            <i className="fab fa-google"></i> Google Sign Up
+            <i className="fab fa-google"></i> Google Sign In
           </button>
         </div>
       </div>
