@@ -14,7 +14,7 @@ const Doctors = () => {
   }, []);
   return (
     <div className="py-3 my-4 fw-bold">
-      <h2 className="text-center">Our Doctors</h2>
+      <h3 className="py-4 text-primary text-center fw-bolder">OUR DOCTORS</h3>
       <Row xs={1} md={2} lg={3} className="g-4 container mx-auto">
         {doctors.map((doctor) => (
           <Doctor key={doctor.id} doctor={doctor}></Doctor>

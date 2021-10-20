@@ -19,10 +19,12 @@ const Blog = () => {
                 customer service. Then, we'll wrap things up by listing a few
                 customer care examples from real companies.
               </Card.Text>
+            </Card.Body>
+            <Card.Footer>
               <button className="btn btn-primary rounded-pill px-3">
                 Read More
               </button>
-            </Card.Body>
+            </Card.Footer>
           </Card>
         </div>
         <div className="col-md-6 col-lg-4">
@@ -39,10 +41,12 @@ const Blog = () => {
                 educational goal of many hospitals and birthing centers when
                 it's time to bring their infant home.
               </Card.Text>
+            </Card.Body>
+            <Card.Footer>
               <button className="btn btn-primary rounded-pill px-3">
                 Read More
               </button>
-            </Card.Body>
+            </Card.Footer>
           </Card>
         </div>
         <div className="col-md-6 col-lg-4">
@@ -54,13 +58,16 @@ const Blog = () => {
             <Card.Body>
               <Card.Title>Don't forget use</Card.Title>
               <Card.Text>
-                Don’t forget to see the doctor! MyHint wants to be your virtual
-                health coach (exclusive)
+                Not taking your medication as prescribed by your doctor can
+                cause serious problems. If in doubt or confused about your
+                treatment, talk to your pharmacist and ask for clarification.
               </Card.Text>
+            </Card.Body>
+            <Card.Footer>
               <button className="btn btn-primary rounded-pill px-3">
                 Read More
               </button>
-            </Card.Body>
+            </Card.Footer>
           </Card>
         </div>
         <div className="col-md-6 col-lg-4">
@@ -77,10 +84,12 @@ const Blog = () => {
                 embarrassed about a certain question. But your nurses and
                 doctors all want the same thing.
               </Card.Text>
+            </Card.Body>
+            <Card.Footer>
               <button className="btn btn-primary rounded-pill px-3">
                 Read More
               </button>
-            </Card.Body>
+            </Card.Footer>
           </Card>
         </div>
         <div className="col-md-6 col-lg-4">
@@ -96,10 +105,12 @@ const Blog = () => {
                 customer service. Then, we'll wrap things up by listing a few
                 customer care examples from real companies.
               </Card.Text>
+            </Card.Body>
+            <Card.Footer>
               <button className="btn btn-primary rounded-pill px-3">
                 Read More
               </button>
-            </Card.Body>
+            </Card.Footer>
           </Card>
         </div>
       </div>

@@ -4,7 +4,7 @@
     "name": "Dr. Khasviware",
     "description": "Master of Surgery (MS, MSurg, MChir)",
     "visiting_time": "8 PM",
-    "img": "https://images.unsplash.com/photo-1614579093335-b6ab37ddaace?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    "img": "https://images.unsplash.com/photo-1580281658223-9b93f18ae9ae?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ5fHxkb2N0b3JzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "2",
@@ -18,14 +18,14 @@
     "name": "Dr. Erchatialo",
     "description": "Master of Public Health and Ophthalmology",
     "visiting_time": "9 AM",
-    "img": "https://images.unsplash.com/photo-1612943733919-f9661f1331f5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    "img": "https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY="
   },
   {
     "id": "4",
-    "name": "Dr. Redwanul",
+    "name": "Dr. Munmun Islam",
     "description": "Doctor of Clinical Medicine (DCM)",
     "visiting_time": "10 AM",
-    "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    "img": "https://images.unsplash.com/photo-1591604021695-0c69b7c05981?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGRvY3RvcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": "5",
@@ -39,7 +39,7 @@
     "name": "Dr. Shyma Jahan",
     "description": "Gynecology (B.S)/(B.Surg)",
     "visiting_time": "11.30 AM",
-    "img": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZG9jdG9yc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    "img": "https://media.istockphoto.com/photos/smiling-professional-female-doctor-taking-notes-looking-at-laptop-picture-id1305333546?b=1&k=20&m=1305333546&s=170667a&w=0&h=4xWEP2KQgBY8K_PAOdy2AzRBZPu3CiBs7mLISGoPCig="
   },
   {
     "id": "7",
