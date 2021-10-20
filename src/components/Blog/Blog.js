@@ -3,8 +3,8 @@ import { Card } from "react-bootstrap";
 
 const Blog = () => {
   return (
-    <div className="container py-4">
-      <h3 className="text-center fw-bold text-primary pb-3">Blogs</h3>
+    <div className="container py-2">
+      <h3 className="text-center text-primary p-3">Blogs</h3>
       <div className="row g-4">
         <div className="col-md-6 col-lg-4">
           <Card className="h-100">

@@ -32,11 +32,11 @@ const Footer = () => {
                     Home
                   </NavLink>
                   <br />
-                  <NavLink className="nav" to="/about">
-                    About Us
+                  <NavLink className="nav" to="/blog">
+                    Blogs
                   </NavLink>
                   <br />
-                  <NavLink className="nav" to="/">
+                  <NavLink className="nav" to="/contact">
                     Contact Us
                   </NavLink>
                   <br />

@@ -37,7 +37,7 @@ const Register = () => {
       <div className="col-md-6">
         <div className="text-center py-4">
           <h1>
-            Register <i class="fas fa-sign-in-alt"></i>
+            Register <i className="fas fa-sign-in-alt"></i>
           </h1>
         </div>
         <form onSubmit={handleSubmit(onSubmit)}>

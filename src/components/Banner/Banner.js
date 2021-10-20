@@ -11,9 +11,9 @@ const Banner = () => {
         <div className="row container">
           <div className="col-md-6 col-lg-8 d-flex align-items-center justify-content-center">
             <div>
-              <p className="fw-bolder fs-4 pt-4">Your Doctor</p>
+              <p className="fw-bolder fs-5 pt-4">Your Doctor</p>
               <h3>We are a reliable partner</h3>
-              <p className="fs-5">
+              <p>
                 Your Doctor is an organization that promotes the art and science
                 of medicine and the betterment of public health. Although the
                 AMA supports the principles of competent, compassionate, ethical

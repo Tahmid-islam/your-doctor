@@ -38,7 +38,7 @@ const Login = () => {
       <div className="col-md-6">
         <div className="text-center py-4">
           <h1>
-            Login <i class="fas fa-sign-in-alt"></i>
+            Login <i className="fas fa-sign-in-alt"></i>
           </h1>
         </div>
         <form onSubmit={handleSubmit(onSubmit)}>

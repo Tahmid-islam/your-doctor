@@ -27,6 +27,7 @@ const DoctorDetails = () => {
         <div
           style={{ textAlign: "justify" }}
           className="container row mx-auto my-3 py-3"
+          key={doctor.id}
         >
           <h3 className="text-center fw-bolder text-primary pt-2 pb-4">
             Appointment Details Of Doctor {doctor.name}
